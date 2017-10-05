@@ -1,3 +1,5 @@
+'use strict';
+
 /**
  * Responds to any HTTP request that can provide a "message" field in the body.
  *
